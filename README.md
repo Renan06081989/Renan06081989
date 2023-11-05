@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Permita-me compartilhar algumas informações sobre minha trajetória. Sou Renan Caldeira de Andrade.
 Durante o meu estágio na CompassUol, tive a oportunidade de me aprofundar em um universo de tecnologias essenciais para a Engenharia de Dados. Adotei metodologias ágeis, como o SCRUM, para otimizar nosso fluxo de trabalho. Aprendi a importância da segurança de aplicações web e até mesmo explorei a ética hacker.<br><br>Nossos estágios foram estruturados em sprints, onde cada etapa focava em tecnologias específicas. Desde o Git e Linux na Sprint 1, até SQL na Sprint 2, Python na Sprint 3 e programação funcional, Docker e Kubernetes na Sprint 4. Nas Sprints seguintes, me aprofundei em serviços AWS, como o Apache Spark e, finalmente, no armazenamento de dados estruturados e análise avançada com o AWS QuickSight.<br><br>Com tantas habilidades adquiridas, estou pronto para enfrentar desafios na engenharia de dados com confiança. Afinal, como dizem, a vida é como programar: você nunca sabe qual bug está reservado para você no próximo sprint! 😄🚀👨‍💻
 
 
