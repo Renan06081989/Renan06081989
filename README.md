@@ -1,5 +1,17 @@
 # 💫 Permita-me compartilhar algumas informações sobre minha trajetória. Sou Renan Caldeira de Andrade.
-    * 		Estagiario Compass UOL com foco em Engenharia de Dados D&A - AWS, contando com uma trilha de desenvolvimento focada em Análise de dados através da extração, limpeza e tratamento de dados, utilizando as seguintes skills:
+
+# 💫FullStack Casheiro.
+    * 		Linguagens de Programação: Kotlin, R, Python.
+    * 		Computação em nuvem: AWS Cloud (Region, S3, Lambda, CloudWatch, IAM, Glue)
+    * 		Desenvolvimento de Back-End: Python, Kotlin, Aplicações Web, Aplicações Backend, PostgreSQL
+    * 		Desenvolvimento Full Stack: Vue.js 3, Vuetify, Atomic Design, Arquitetura Hexagonal
+    * 		Dashboards: Visualização de dados
+    * 		REST: Implementação de APIs REST
+    * 		Banco de Dados: PostgreSQL
+    * 		Ferramentas Adicionais: Docker, Crawler, Bot de Compra, Gatilho de Varredura, Gatilho de Compra.
+   
+# 💫Estagio Engenharia de Dados D&A AWS - CompassUol.
+    * 		Estagiei na  Compass UOL com foco em Engenharia de Dados D&A - AWS, contando com uma trilha de desenvolvimento focada em Análise de dados através da extração, limpeza e tratamento de dados, utilizando as seguintes skills:
     * 		- Metodologias Ágeis
     * 		- Git/GitHub
     * 		- SQL
